@@ -2,7 +2,7 @@
   "name": "react02",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tironam.github.io/reactday2" 
+  "homepage": "https://tironam.github.io/reactday2", 
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
